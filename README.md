@@ -36,3 +36,11 @@
 <p align="center">
   <img src="./tesla_sales.png" alt="car sales dashboard image">
 </p>
+
+
+# Conclusion
+
+## The analysis of Tesla's historical data for the first six months in 2016 provides valuable insights into the company's performance. 
+## The data highlights the most popular models, versions, and purchase types, as well as the countries with the highest demand for Tesla vehicles. 
+
+## This information will be invaluable to Tesla's management as they plan for future production. By prioritizing the most profitable models and versions and focusing on high-demand markets, Tesla can continue to gain a competitive advantage in the automotive industry.
