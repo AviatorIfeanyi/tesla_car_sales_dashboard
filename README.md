@@ -33,9 +33,23 @@
 
 <br />
 
+## Research Questions
+## 1. Which car model is the most profitable? 
+## 2. Which country has the highest demand for vehicles?
+## 3. Which car model is the most demanded in the each country?
+## 4. What is the total demand for the six months of sales?
+## 5. Which mode of payment is the most preferred in each country?
+## 6. Is there a relationship between sales and profit?
+
+
+
+<br />
+
 <p align="center">
   <img src="./tesla_sales.png" alt="car sales dashboard image">
 </p>
+
+
 
 
 # Conclusion
