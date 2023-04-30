@@ -9,7 +9,7 @@
 
 
 
-## The management of tesla Inc decides to analyze historical data of the sale of its car models in the year 2016 for the first six months.
+## The management of Tesla Inc, a company in the automotive industry, decides to analyze historical data of the sale of its car models in the year 2016 for the first six months.
 
 ## With the data made available, I have conducted a thorough study of Tesla's historical data for the first six months in 2016. 
 
