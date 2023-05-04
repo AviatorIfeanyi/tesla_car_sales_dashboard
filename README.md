@@ -11,7 +11,7 @@
 
 ## The management of Tesla Inc, a company in the automotive industry, decides to analyze historical data of the sale of its car models in the year 2016 for the first six months.
 
-## With the data made available, I have conducted a thorough study of Tesla's historical data for the first six months in 2016. 
+## With the data made available, they are expecting a thorough study of Tesla's historical data for the first six months in 2016. 
 
 <br />
 
@@ -33,16 +33,20 @@
 
 <br />
 
-## Research Questions
+# Research Questions
 ## 1. Which car model is the most profitable? 
 ## 2. Which country has the highest demand for vehicles?
 ## 3. Which car model is the most demanded in the each country?
 ## 4. What is the total demand for the six months of sales?
 ## 5. Which mode of payment is the most preferred in each country?
 ## 6. Is there a relationship between sales and profit?
+<br />
 
-
-
+# Insights
+## The USA was the country with the highest demand 
+## The sales and profits of Tesla cars exhibited fluctuating trends over time.
+## Model S had a higher demand (65%) compared to Model X 35%.
+## Buyers had more preference for physical transactions compared to making deposits. 
 <br />
 
 <p align="center">
